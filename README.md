@@ -253,6 +253,3 @@ microbitdata_for_import.head()
 
 # Exporting final resulting dataframe to spreadsheet for manual correction
 microbitdata_for_import.to_csv('microbitdata_for_import.csv', index=False)
-
-
-Part 5: Merging resulting dataframes for the final version.
